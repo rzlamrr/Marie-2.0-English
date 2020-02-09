@@ -20,13 +20,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hai {}, namaku {}! Jika ada pertanyaan cara menggunakan aku, kirimkan /help
 
-Aku adalah pengatur grup dan membantu admin. Aku dibuat oleh [dαvιѕтα](tg://user?id={}).
+Aku membantu admin dalam pengelolaan grup. Aku dibuat dan diaktifkan oleh [dαvιѕтα](tg://user?id={}).
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+Ini adalah [Kode Clone ku](https://heroku.com/deploy?template=https://github.com/zlian17/Marie-2.0-English)
 
-Ini adalah [Kode Clone ku](https://heroku.com/deploy?template=https://github.com/zlian17/Marie-2.0-English),
-
-Untuk melihat daftar perintah, gunakan /help
+Untuk daftar perintah, gunakan /help
 
 
 """
@@ -36,7 +34,7 @@ HELP_STRINGS = """
 Halo! Namaku *{}*.
 
 *Main* available commands:
- - /start: Mulai bot...
+ - /start: Aktifkan bot...
  - /help: Bantuan....
  - /donate: Silakan donasi agar bot ini tetap aktif:)
  - /settings:
