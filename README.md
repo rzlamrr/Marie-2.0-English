@@ -17,7 +17,7 @@ Alternatively, [find me on telegram](https://t.me/SonOfLars)! (Keep all support 
 
 ## How to host
 <p align="center">Simply, click purple button below!</p>
-<p align="center"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FzLian17%2FMarie-2.0-English%2Fblob%2Fmaster%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FzLian17%2FMarie-2.0-English"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/zLian17/Marie-2.0-English"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Starting the bot.
 
