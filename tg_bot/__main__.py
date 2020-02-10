@@ -18,13 +18,11 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hai {}, namaku {}! Jika ada pertanyaan cara menggunakan aku, kirimkan /help
+Hai {}, namaku {}! Aku adalah hasil klon dari @BanhammerMarie_Bot
 
 Aku membantu admin dalam pengelolaan grup. Aku dibuat dan diaktifkan oleh [dαvιѕтα](tg://user?id={}).
 
-Ini adalah [Kode Clone ku](https://heroku.com/deploy?template=https://github.com/zlian17/Marie-2.0-English)
-
-Untuk daftar perintah, gunakan /help
+Untuk daftar perintah dan bantuan, gunakan /help
 
 
 """
